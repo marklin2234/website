@@ -2,9 +2,9 @@
 	"main": {
 		"name": "Mark Lin",
 		"occupation": "Software Engineer",
-		"description": "I am a 2B Honours Mathematics Student, majoring in Statistics at the University of Waterloo",
+		"description": "I am a 3A Honours Mathematics Student, majoring in Statistics at the University of Waterloo",
 		"image": "profilepic.jpg",
-		"bio": "I love music, reading and (obviously) coding. I excel at front-end frameworks like React.js and Angular.js and have back-end experience with SQL, GraphQL, Firebase and Java/Scala. I am currently looking for an internship for Summer 2023.",
+		"bio": "I love music, reading and (obviously) coding. I excel at front-end frameworks like React.js and Angular.js and have back-end experience with Ruby on Rails, AWS, GraphQL, Firebase and Java/Scala. I am currently looking for an internship for Summer 2023.",
 		"contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
 		"email": "mark.lin2234@gmail.com",
 		"phone": "647-985-4566",
@@ -34,19 +34,25 @@
 				"school": "University of Waterloo",
 				"degree": "Honours Mathematics (Statistics & Decision Theory)",
 				"graduated": "Sept 2020 - Sept 2025",
-				"description": "Part of the co-op program offered at the University of Waterloo. I am currently looking for an opportunity for my third co-op term."
+				"description": "Part of the co-op program offered at the University of Waterloo. I am currently looking for an opportunity for my fourth co-op term."
 			}
 		],
 		"work": [
 			{
+				"company": "Drop Technologies Inc.",
+				"title": "Software Engineer Intern",
+				"years": "Sept 2022 - Dec 2022",
+				"description": "Worked on the Drop Mobile app using React Native, Ruby on Rails and AWS. Aided in the development of pets, developed our internal REST API, and took ownership of a project which lead to an increase in shop engagement."
+			},
+			{
 				"company": "TD Bank",
-				"title": "Software Engineer",
-				"years": "Jan 2022 - Present",
+				"title": "Software Engineer Intern",
+				"years": "Jan 2022 - Aug 2022",
 				"description": "Worked on the Transparency Trader team, and helped develop and manage a FO risk management tool for fixed income and FX. Worked with Angular and Scala to create multiple support tools which fetch data and provides it to the user either in browser or in an excel document. I also increased performance on all projects by identifying hardware issues through Java scripts that parsed data from log files."
 			},
 			{
 				"company": "Year Zero Studios",
-				"title": "Software Developer",
+				"title": "Software Developer Intern",
 				"years": "May 2021 - Sept 2021",
 				"description": "Created a dynamic and responsive web application using Typescript, React.js, Next.js and Firebase. I redesigned the entire website, refactored our RESTful APIs and architected the backend in Firebase."
 			},
@@ -80,7 +86,7 @@
 			},
 			{
 				"name": "Python",
-				"level": "80%"
+				"level": "100%"
 			},
 			{
 				"name": "Java/Scala",
