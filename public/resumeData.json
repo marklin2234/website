@@ -4,7 +4,7 @@
 		"occupation": "Software Engineer",
 		"description": "I am a 3A Honours Mathematics Student, majoring in Statistics at the University of Waterloo",
 		"image": "profilepic.jpg",
-		"bio": "I love music, reading and (obviously) coding. I excel at front-end frameworks like React.js and Angular.js and have back-end experience with Ruby on Rails, AWS, GraphQL, Firebase and Java/Scala. I am currently looking for an internship for Summer 2023.",
+		"bio": "I love music, reading and coding. I excel at front-end frameworks like React.js, Angular.js and Vue.js and have back-end experience with Ruby on Rails, Python, AWS, Firebase and Java/Scala. I am currently looking for an internship for Winter 2024.",
 		"contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
 		"email": "mark.lin2234@gmail.com",
 		"phone": "647-985-4566",
@@ -17,12 +17,12 @@
 		"social": [
 			{
 				"name": "linkedin",
-				"url": "https://www.linkedin.com/in/mark-lin-/",
+				"url": "https://www.linkedin.com/in/marklin2234/",
 				"className": "fa fa-linkedin"
 			},
 			{
 				"name": "github",
-				"url": "https://github.com/MarkLinXVII",
+				"url": "https://github.com/marklin2234",
 				"className": "fa fa-github"
 			}
 		]
@@ -35,9 +35,21 @@
 				"degree": "Honours Mathematics (Statistics & Decision Theory)",
 				"graduated": "Sept 2020 - Sept 2025",
 				"description": "Part of the co-op program offered at the University of Waterloo. I am currently looking for an opportunity for my fourth co-op term."
+			},
+			{
+				"school": "National University of Singapore",
+				"degree": "International Exchange",
+				"graduated": "Aug 2023 - Dec 2023",
+				"description": "Taking part in the international student exchange program at the School of Computing at the National University of Singapore."
 			}
 		],
 		"work": [
+			{
+				"company": "Cover Technologies Inc.",
+				"title": "Software Engineer Intern",
+				"years": "May 2023 - Aug 2023",
+				"description": "Developed our internal software to streamline and accelerate the modular building process for Covers."
+			},
 			{
 				"company": "Drop Technologies Inc.",
 				"title": "Software Engineer Intern",
@@ -95,6 +107,10 @@
 			{
 				"name": "Solidity",
 				"level": "90%"
+			},
+			{
+				"name": "Vue.js",
+				"level": "100%"
 			}
 		]
 	},
