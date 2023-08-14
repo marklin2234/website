@@ -57,7 +57,7 @@
 				"description": "Worked on the Drop Mobile app using React Native, Ruby on Rails and AWS. Aided in the development of pets, developed our internal REST API, and took ownership of a project which lead to an increase in shop engagement."
 			},
 			{
-				"company": "TD Bank",
+				"company": "TD Securities",
 				"title": "Software Engineer Intern",
 				"years": "Jan 2022 - Aug 2022",
 				"description": "Worked on the Transparency Trader team, and helped develop and manage a FO risk management tool for fixed income and FX. Worked with Angular and Scala to create multiple support tools which fetch data and provides it to the user either in browser or in an excel document. I also increased performance on all projects by identifying hardware issues through Java scripts that parsed data from log files."
@@ -94,7 +94,7 @@
 			},
 			{
 				"name": "SQL",
-				"level": "95%"
+				"level": "100%"
 			},
 			{
 				"name": "Python",
@@ -110,6 +110,10 @@
 			},
 			{
 				"name": "Vue.js",
+				"level": "100%"
+			},
+			{
+				"name": "C#",
 				"level": "100%"
 			}
 		]
