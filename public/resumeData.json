@@ -2,9 +2,9 @@
 	"main": {
 		"name": "Mark Lin",
 		"occupation": "Software Engineer",
-		"description": "I am a 3A Honours Mathematics Student, majoring in Statistics at the University of Waterloo",
+		"description": "I am a 3B Honours Mathematics Student at the University of Waterloo studying Statistics and Computer Science",
 		"image": "profilepic.jpg",
-		"bio": "I love music, reading and coding. I excel at front-end frameworks like React.js, Angular.js and Vue.js and have back-end experience with Ruby on Rails, Python, AWS, Firebase and Java/Scala. I am currently looking for an internship for Winter 2024.",
+		"bio": "I love music, reading and coding. I am interested in backend and algorithm development, and I am experienced in Java, Python, C and C++. I am currently looking for an internship for Winter 2024 and Summer 2024.",
 		"contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
 		"email": "mark.lin2234@gmail.com",
 		"phone": "647-985-4566",
@@ -85,14 +85,6 @@
 				"level": "100%"
 			},
 			{
-				"name": "Angular.js",
-				"level": "100%"
-			},
-			{
-				"name": "Ruby on Rails",
-				"level": "100%"
-			},
-			{
 				"name": "SQL",
 				"level": "100%"
 			},
@@ -105,15 +97,19 @@
 				"level": "100%"
 			},
 			{
-				"name": "Solidity",
-				"level": "90%"
-			},
-			{
 				"name": "Vue.js",
 				"level": "100%"
 			},
 			{
 				"name": "C#",
+				"level": "100%"
+			},
+			{
+				"name": "C",
+				"level": "100%"
+			},
+			{
+				"name": "C++",
 				"level": "100%"
 			}
 		]
@@ -124,7 +120,25 @@
 				"title": "Resume Website",
 				"category": "A React based resume website template",
 				"image": "resume-website.png",
-				"url": ""
+				"url": "google.ca"
+			},
+			{
+				"title": "Duke",
+				"category": "A CLI for tracking todos, deadlines and events.",
+				"image": "duke.png",
+				"url": "https://github.com/marklin2234/ip/releases/tag/A-Release"
+			},
+			{
+				"title": "Virtual Miner",
+				"category": "A decentralized application where users can pool their ether to earn the chance of increasing profits.",
+				"image": "miner.png",
+				"url": "https://github.com/marklin2234/Miner-Game/tree/main#how-to-play"
+			},
+			{
+				"title": "Cover homepage and zoning tool",
+				"category": "Property zoning tool for Cover and homepage.",
+				"image": "cover.png",
+				"url": "https://www-marklin1.buildcover.dev/"
 			}
 		]
 	},

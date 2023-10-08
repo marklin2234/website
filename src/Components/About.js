@@ -23,13 +23,9 @@ class About extends Component {
 						<h2>About Me</h2>
 
 						<p>
-							I love music, reading and hiking. I excel at front-end frameworks like{' '}
-							<span style={{ color: 'white' }}>React.js, Angular.js and Vue.js</span> and have back-end
-							experience with{' '}
-							<span style={{ color: 'white' }}>
-								Ruby on Rails, AWS, Python, Firebase and Java/Scala
-							</span>
-							. I am currently looking for an internship for Winter 2024.
+						I love music, reading and coding. I am interested in backend and algorithm development,
+						with experience in Java, Python, C and C++. I am currently looking for an internship
+						for Winter 2024 and Summer 2024.
 						</p>
 						<div className="row">
 							<div className="columns contact-details">
