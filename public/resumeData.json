@@ -139,6 +139,12 @@
 				"category": "Property zoning tool for Cover and homepage.",
 				"image": "cover.png",
 				"url": "https://www-marklin1.buildcover.dev/"
+			},
+			{
+				"title": "TLDR Chatbot",
+				"category": "AI chatbot that summarizes texts or website URLs.",
+				"image": "tldr.png",
+				"url": "https://cohere-project.vercel.app/"
 			}
 		]
 	},
