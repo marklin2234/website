@@ -1,154 +1,144 @@
 {
-	"main": {
-		"name": "Mark Lin",
-		"occupation": "Software Engineer",
-		"description": "I am a 3B Honours Mathematics Student at the University of Waterloo studying Statistics and Computer Science",
-		"image": "profilepic.jpg",
-		"bio": "I love music, reading and coding. I am interested in backend and algorithm development, and I am experienced in Java, Python, C and C++. I am currently looking for an internship for Winter 2024 and Summer 2024.",
-		"contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-		"email": "mark.lin2234@gmail.com",
-		"phone": "647-985-4566",
-		"address": {
-			"city": "Toronto",
-			"state": "ON"
-		},
-		"website": "https://www.google.com",
-		"resumedownload": "mark_lin_resume.pdf",
-		"social": [
-			{
-				"name": "linkedin",
-				"url": "https://www.linkedin.com/in/marklin2234/",
-				"className": "fa fa-linkedin"
-			},
-			{
-				"name": "github",
-				"url": "https://github.com/marklin2234",
-				"className": "fa fa-github"
-			}
-		]
-	},
-	"resume": {
-		"skillmessage": "Amount of professional experience with each language.",
-		"education": [
-			{
-				"school": "University of Waterloo",
-				"degree": "Honours Mathematics (Statistics & Decision Theory)",
-				"graduated": "Sept 2020 - Sept 2025",
-				"description": "Part of the co-op program offered at the University of Waterloo. I am currently looking for an opportunity for my fourth co-op term."
-			},
-			{
-				"school": "National University of Singapore",
-				"degree": "International Exchange",
-				"graduated": "Aug 2023 - Dec 2023",
-				"description": "Taking part in the international student exchange program at the School of Computing at the National University of Singapore."
-			}
-		],
-		"work": [
-			{
-				"company": "Cover",
-				"title": "Software Engineer Intern",
-				"years": "May 2023 - Aug 2023",
-				"description": "Developed our internal software to streamline and accelerate the modular building process for Covers."
-			},
-			{
-				"company": "Drop Technologies Inc.",
-				"title": "Software Engineer Intern",
-				"years": "Sept 2022 - Dec 2022",
-				"description": "Worked on the Drop Mobile app using React Native, Ruby on Rails and AWS. Aided in the development of pets, developed our internal REST API, and took ownership of a project which lead to an increase in shop engagement."
-			},
-			{
-				"company": "TD Securities",
-				"title": "Software Engineer Intern",
-				"years": "Jan 2022 - Aug 2022",
-				"description": "Worked on the Transparency Trader team, and helped develop and manage a FO risk management tool for fixed income and FX. Worked with Angular and Scala to create multiple support tools which fetch data and provides it to the user either in browser or in an excel document. I also increased performance on all projects by identifying hardware issues through Java scripts that parsed data from log files."
-			},
-			{
-				"company": "Year Zero Studios",
-				"title": "Software Developer Intern",
-				"years": "May 2021 - Sept 2021",
-				"description": "Created a dynamic and responsive web application using Typescript, React.js, Next.js and Firebase. I redesigned the entire website, refactored our RESTful APIs and architected the backend in Firebase."
-			},
-			{
-				"company": "DxChain Network",
-				"title": "Software Developer Intern",
-				"years": "Aug 2019 - Sept 2019",
-				"description": "Created an optimized smart contract for a decentralized application on the Ethereum blockchain where users can pool their ether to earn the chance of increasing profits using Solidity and Node.js."
-			}
-		],
-		"skills": [
-			{
-				"name": "Javscript/Typescript",
-				"level": "100%"
-			},
-			{
-				"name": "React.js",
-				"level": "100%"
-			},
-			{
-				"name": "SQL",
-				"level": "100%"
-			},
-			{
-				"name": "Python",
-				"level": "100%"
-			},
-			{
-				"name": "Java/Scala",
-				"level": "100%"
-			},
-			{
-				"name": "Vue.js",
-				"level": "100%"
-			},
-			{
-				"name": "C#",
-				"level": "100%"
-			},
-			{
-				"name": "C",
-				"level": "100%"
-			},
-			{
-				"name": "C++",
-				"level": "100%"
-			}
-		]
-	},
-	"portfolio": {
-		"projects": [
-			{
-				"title": "Resume Website",
-				"category": "A React based resume website template",
-				"image": "resume-website.png",
-				"url": "google.ca"
-			},
-			{
-				"title": "Duke",
-				"category": "A CLI for tracking todos, deadlines and events.",
-				"image": "duke.png",
-				"url": "https://github.com/marklin2234/ip/releases/tag/A-Release"
-			},
-			{
-				"title": "Virtual Miner",
-				"category": "A decentralized application where users can pool their ether to earn the chance of increasing profits.",
-				"image": "miner.png",
-				"url": "https://github.com/marklin2234/Miner-Game/tree/main#how-to-play"
-			},
-			{
-				"title": "Cover homepage and zoning tool",
-				"category": "Property zoning tool for Cover and homepage.",
-				"image": "cover.png",
-				"url": "https://www-marklin1.buildcover.dev/"
-			},
-			{
-				"title": "TLDR Chatbot",
-				"category": "AI chatbot that summarizes texts or website URLs.",
-				"image": "tldr.png",
-				"url": "https://cohere-project.vercel.app/"
-			}
-		]
-	},
-	"testimonials": {
-		"testimonials": []
-	}
+  "main": {
+    "name": "Mark Lin",
+    "occupation": "Software Engineer",
+    "description": "I am a Honours Mathematics Graduate from the University of Waterloo in Statistics and Computer Science",
+    "image": "profilepic.jpg",
+    "bio": "Software Engineer at Bloomberg. Experience in C++, C, Java and Python. Received 2025 new graduate offers from Meta, Bloomberg, Atlassian, Uber and Amazon.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "m2234lin@gmail.com",
+    "phone": "929-641-9825",
+    "address": {
+      "city": "New York City",
+      "state": "NY"
+    },
+    "website": "https://www.google.com",
+    "resumedownload": "mark_lin_resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/marklin2234/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/marklin2234",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Amount of professional experience with each language.",
+    "education": [
+      {
+        "school": "University of Waterloo",
+        "degree": "Honours Mathematics (Statistics & Decision Theory)",
+        "graduated": "Sept 2020 - Jun 2025",
+        "description": "Part of the co-op program offered at the University of Waterloo."
+      },
+      {
+        "school": "National University of Singapore",
+        "degree": "International Exchange",
+        "graduated": "Aug 2023 - Dec 2023",
+        "description": "Taking part in the international student exchange program at the School of Computing at the National University of Singapore."
+      }
+    ],
+    "work": [
+      {
+        "company": "Bloomberg",
+        "title": "Software Engineer",
+        "year": "Oct 2025 - Present",
+        "description": "Training."
+      },
+      {
+        "company": "Autodesk",
+        "title": "Software Engineer Intern",
+        "year": "May 2024 - Aug 2024",
+        "description": "Implemented Part Number Grouping for the fusion360."
+      },
+      {
+        "company": "Cover",
+        "title": "Software Engineer Intern",
+        "years": "May 2023 - Aug 2023",
+        "description": "Developed our internal software to streamline and accelerate the modular building process for Covers."
+      },
+      {
+        "company": "Drop Technologies Inc.",
+        "title": "Software Engineer Intern",
+        "years": "Sept 2022 - Dec 2022",
+        "description": "Worked on the Drop Mobile app using React Native, Ruby on Rails and AWS. Aided in the development of pets, developed our internal REST API, and took ownership of a project which lead to an increase in shop engagement."
+      },
+      {
+        "company": "TD Securities",
+        "title": "Software Engineer Intern",
+        "years": "Jan 2022 - Aug 2022",
+        "description": "Worked on the Transparency Trader team, and helped develop and manage a FO risk management tool for fixed income and FX. Worked with Angular and Scala to create multiple support tools which fetch data and provides it to the user either in browser or in an excel document. I also increased performance on all projects by identifying hardware issues through Java scripts that parsed data from log files."
+      },
+      {
+        "company": "Year Zero Studios",
+        "title": "Software Developer Intern",
+        "years": "May 2021 - Sept 2021",
+        "description": "Created a dynamic and responsive web application using Typescript, React.js, Next.js and Firebase. I redesigned the entire website, refactored our RESTful APIs and architected the backend in Firebase."
+      },
+      {
+        "company": "DxChain Network",
+        "title": "Software Developer Intern",
+        "years": "Aug 2019 - Sept 2019",
+        "description": "Created an optimized smart contract for a decentralized application on the Ethereum blockchain where users can pool their ether to earn the chance of increasing profits using Solidity and Node.js."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "100%"
+      },
+      {
+        "name": "C",
+        "level": "100%"
+      },
+      {
+        "name": "C++",
+        "level": "100%"
+      },
+      {
+        "name": "Javscript/Typescript",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Duke",
+        "category": "A CLI for tracking todos, deadlines and events.",
+        "image": "duke.png",
+        "url": "https://github.com/marklin2234/ip/releases/tag/A-Release"
+      },
+      {
+        "title": "CollisionWorld",
+        "category": "",
+        "image": "",
+        "url": "https://github.com/marklin2234/collisionworld"
+      },
+      {
+        "title": "Memory Allocator",
+        "category": "",
+        "image": "",
+        "url": "https://github.com/marklin2234/my_alloc"
+      },
+      {
+        "title": "PPython",
+        "category": "",
+        "image": "",
+        "url": "https://github.com/marklin2234/ppython"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": []
+  }
 }
